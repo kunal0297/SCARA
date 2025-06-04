@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔮 SCARA – Sentient Chain: Autonomous Reality Architect
 
 The first AI-native, self-evolving, on-chain multiverse protocol.
@@ -70,5 +69,4 @@ Please read CONTRIBUTING.md for details on our code of conduct and the process f
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
 =======
-# SCARA
->>>>>>> d20a7ecaac60c54256844f50708ef10837d66c40
+
